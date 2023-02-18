@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Form1.resources
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe.config
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\bin\Debug\LinearRegression.pdb
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\bin\Debug\MathNet.Numerics.dll
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\bin\Debug\MathNet.Numerics.xml
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.exe
+C:\Users\Gabriel\Desktop\SECOND SEM RESOURCES\IS2\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb
